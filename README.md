@@ -19,3 +19,10 @@
 • Supports fuel cost optimization,  
 • emission monitoring,  
 • and sustainability reporting in maritime operations.  
+
+# Schema  
+<img width="667" height="421" alt="image" src="https://github.com/user-attachments/assets/b608e3bc-1b8e-4396-8824-235fdd8a74a3" />  
+
+
+# Dashboard  
+<img width="1887" height="856" alt="image" src="https://github.com/user-attachments/assets/b6ab591a-4852-4ff4-a977-ecb616a71776" />
